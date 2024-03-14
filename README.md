@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me tanyingxiu@u.nus.edu
 - 😄 Pronouns: She
-- ⚡ Fun fact: fav animal is polar bears
+- ⚡ Fun fact: fav animal is polar bear 
 
 <!---
 Chlochloyx/Chlochloyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
