@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Chlochloyx
-- 👀 I’m interested in learning coding
-- 🌱 I’m currently learning python
+- 👀 An amateur learning coding
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me tanyingxiu@u.nus.edu
-- 😄 Pronouns: She
-- ⚡ Fun fact: fav animal is polar bear 
+- 📫 Reach me via tanyingxiu@u.nus.edu
+- ⚡ Fav animal is Polar Bear 
 
 <!---
 Chlochloyx/Chlochloyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
