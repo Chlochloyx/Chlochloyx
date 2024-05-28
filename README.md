@@ -2,7 +2,7 @@
 - 👀 aka an amateur learning coding
 - 💞️ I’m looking to collaborate on any projects
 - 📫 Reach me via tanyingxiu@u.nus.edu
-- ⚡ Love North Antarctica animals, especially Polar Bears 
+- ⚡ Fun facts about me is that I love North Antarctica animals, especially Polar Bears :D
 
 <!---
 #Chlochloyx/Chlochloyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
