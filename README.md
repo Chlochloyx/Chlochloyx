@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ying Xiu, username @Chlochloyx
 - 👀 aka an amateur learning coding
-- ⚡ Fun facts about me is that I love North Antarctica animals, especially Polar Bears :D
+- ⚡ Fun fact about me is that I loveee animals living in North Antarctica and the Arctic, especially Polar Bears :D
 - 💞️ I’m looking to collaborate on any projects
 - 📫 Reach me via tanyingxiu@u.nus.edu
 
